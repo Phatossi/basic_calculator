@@ -8,7 +8,7 @@ Only one operator per expression is currently supported. The expressions that ar
 
 *  Get the application
 ```
-        $ git clone https://github.com/catarse/catarse.git
+        $ git clone https://github.com/Phatossi/basic_calculator.git
 ```
 
 *  Launch it by running init.rb file
