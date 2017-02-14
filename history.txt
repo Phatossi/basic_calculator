@@ -1,2 +1,2 @@
-Time: 02/12/2016 14:25 ---	Expression:  minus 3 equals  minus 3	
-Time: 02/12/2016 14:25 ---	Expression:  minus 3 minus 3 equals  minus 6	
+Time: 02/12/2016 15:32 ---	Expression: 3 plus 4 equals 7	
+Time: 02/12/2016 15:32 ---	Expression: 9 minus 31 equals  minus 22	
